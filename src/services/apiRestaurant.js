@@ -51,4 +51,4 @@ export async function updateOrder(id, updateObj) {
   } catch (err) {
     throw Error('Failed updating your order');
   }
-}
+}    
